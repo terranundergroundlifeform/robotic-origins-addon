@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "robotic_origins:overheating",
+        "robotic_origins:humidity"
+    ],
+    "icon": "minecraft:iron_block",
+    "order": 1,
+    "impact": 1,
+    "name": "Android/Cyborg",
+    "description": "You are a humanoid, sentient robot. Whether you're an android or cyborg, you nearly share the same overall powers as a human, only artificial."
+}

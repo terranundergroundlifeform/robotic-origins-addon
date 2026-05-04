@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "robotic_origins:cold_biome",
+        "robotic_origins:hot_biome",
+        "robotic_origins:humidity"
+    ],
+    "icon": "minecraft:lightning_rod",
+    "unchoosable": true,
+    "order": 1,
+    "impact": 3,
+    "name": "Cybernetic Upgrades",
+    "description": "You're organic, but with cyberentic upgrades. Whatever you choose affects how you will be in the long term."
+}

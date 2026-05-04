@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "robotic_origins:dietless",
+        "robotic_origins:hot_biome",
+        "robotic_origins:cold_biome"
+    ],
+    "icon": "minecraft:copper_block",
+    "order": 1,
+    "impact": 2,
+    "name": "Automaton",
+    "description": "You are a mechanical marvel...for the Victorian Era. Nowadays, you're more likely to work 24/7 in a factory."
+}
