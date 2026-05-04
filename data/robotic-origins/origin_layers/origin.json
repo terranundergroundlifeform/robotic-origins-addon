@@ -1,0 +1,9 @@
+{
+	"replace": false,
+    "origins": [
+        "robotic_origins:android",
+        "robotic_origins:automaton",
+        "robotic_origins:cybernetics",
+        "robotic_origins:drone"
+    ]
+}
