@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "origins:water_vulnerability",
+        "robotic_origins:overheating",
+        "robotic_origins:dietless"
+    ],
+    "icon": "minecraft:comparator",
+    "order": 1,
+    "impact": 2,
+    "name": "Drone",
+    "description": "Similar to an automaton, but for the modern world. Your existence is usually shafted by the endless hours of industrial use."
+}
