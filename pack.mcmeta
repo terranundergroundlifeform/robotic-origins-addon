@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "name": "Robotic Origins",
+        "id": "robotic_origins",
+        "pack_format": 15,
+        "version": "1.0.2d",
+        "authors": [
+            "cynderthekitsune"
+        ],
+        "description": "a datapack/mod that adds some robot-oriented origins to the Origins mod!",
+        "license": "CC BY-NC 4.0"
+    }
+}
