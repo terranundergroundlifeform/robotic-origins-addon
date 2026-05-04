@@ -22,4 +22,4 @@ This is an Origins addon that's (supposed to) add bot-oriented origins. So far, 
 ## Licenses & Redistribution
 This whole project is under CC BY-NC 4.0. Please attribute the author(s) of this work(s) and do not share for commercial purposes.
 
-Downloading from anywhere other than Modrinth or this Github repo is possibly dangerous, since we never upload outside of both Modrinth and Github. If they ask for money, please avoid them at all costz - they are very likely scamming you, it may have viruses/malware/etc inside it, etc.
+Downloading from anywhere other than Modrinth or this Github repo is probably dangerous, since we never upload outside of both Modrinth and Github. If they ask for money, please avoid them at all costs - they are very likely scamming you, it may have viruses/malware/etc inside it, etc.
