@@ -1,0 +1,27 @@
+{
+    "name": "Humidity",
+    "description": "Humid biomes will have a slight negative effect over time.",
+    "hidden": true,
+    "condition": {
+        "type": "origins:biome",
+        "biomes": [
+            "minecraft:mangrove_swamp",
+            "minecraft:swamp",
+            "minecraft:warped_forest",
+            "minecraft:crimson_forest",
+            "minecraft:lush_caves",
+            "minecraft:sparse_jungle",
+            "minecraft:jungle",
+            "minecraft:bamboo_jungle"
+        ],
+        "condition": {
+            "type": "origins:high_humidity"
+        }
+    },
+    "type": "origins:action_over_time",
+    "interval": 5,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "function robotic_origins:cold"
+    }
+}

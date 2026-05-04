@@ -1,0 +1,35 @@
+{
+    "name": "Freezing!",
+    "description": "You're not built for cold biomes.",
+    "hidden": true,
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:precipitation",
+            "precipitation": "snow"
+        }
+    },
+    "type": "origins:action_over_time",
+    "interval": 5,
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:slowness",
+            "duration": 3,
+            "amplifier": 2,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+        },
+        "effects": [
+            {
+                "effect": "minecraft:weakness",
+                "duration": 3,
+                "amplifier": 2,
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": false
+            }
+        ]
+    }
+}

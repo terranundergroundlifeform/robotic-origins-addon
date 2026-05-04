@@ -1,0 +1,51 @@
+{
+    "name": "Too Hot",
+    "description": "You're not built for hot biomes.",
+    "hidden": true,
+    "condition": {
+        "type": "origins:biome",
+        "biomes": [
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:wooded_badlands",
+            "minecraft:desert",
+            "minecraft:savanna",
+            "minecraft:windswept_savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:jungle",
+            "minecraft:bamboo_jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:nether_wastes",
+            "minecraft:basalt_deltas",
+            "minecraft:crimson_forest",
+            "minecraft:warped_forest"
+        ],
+        "condition": {
+            "type": "origins:precipitation",
+            "precipitation": "none"
+        }
+    },
+    "type": "origins:action_over_time",
+    "interval": 5,
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:slowness",
+            "duration": 3,
+            "amplifier": 2,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+        },
+        "effects": [
+            {
+                "effect": "minecraft:weakness",
+                "duration": 3,
+                "amplifier": 2,
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": false
+            }
+        ]
+    }
+}
