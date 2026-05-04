@@ -1,0 +1,51 @@
+{
+    "name": "Overheating",
+    "description": "You can overheat in hot biomes.",
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "inverted": true,
+                "type": "origins:fluid_height",
+                "fluid": "minecraft:water",
+                "comparison": ">",
+                "compare_to": 0
+            },
+            {
+                "inverted": true,
+                "type": "origins:in_rain"
+            },
+            {
+                "type": "origins:biome",
+                "biomes": [
+                    "minecraft:jungle",
+                    "minecraft:sparse_jungle",
+                    "minecraft:bamboo_jungle",
+                    "minecraft:warped_forest",
+                    "minecraft:crimson_forest",
+                    "minecraft:basalt_deltas",
+                    "minecraft:nether_wastes",
+                    "minecraft:savanna",
+                    "minecraft:savanna_plateau",
+                    "minecraft:windswept_savanna",
+                    "minecraft:wooded_badlands",
+                    "minecraft:badlands",
+                    "minecraft:eroded_badlands",
+                    "minecraft:desert",
+                    ""
+                ],
+                "condition": {
+                    "type": "origins:temperature",
+                    "comparison": ">=",
+                    "compare_to": 1.9
+                }
+            }
+        ]
+    },
+    "type": "origins:action_over_time",
+    "interval": 100,
+    "entity_action": {
+        "type": "origins:set_on_fire",
+        "duration": 5
+    }
+}
