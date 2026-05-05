@@ -8,7 +8,7 @@ This is an Origins addon that's (supposed to) add bot-oriented origins. So far, 
 
 **Drone** - kinda like a modern equivalent to automatons. often used in factories and industrial settings - though they are like an intermediate between Android/Cyborg and Automaton. they may or may not be able to eat food/beverages, though that could be a future upgrade if one so chooses to. drones don't have free will, and they're more technologically primitive, less trying to mimic humans closely.
 
-**Cybernetics** - these are basically just cybernetic upgrades to the human origin. you can take various upgrades, though at a cost - whether it be draining your hunger faster, sinking while swimming, or something else. these require iron, redstone, and potentially other things to upgrade, though you become more adept, you will slowly lose your connection to humanity.
+**Cybernetics** - these are basically just cybernetic upgrades to the human origin. you can take various upgrades, though at a cost - whether it be draining your hunger faster, sinking while swimming, or something else. these require iron, redstone, and potentially other things to upgrade; though you become more adept, you will slowly lose your connection to humanity.
 
 ## Plans
 **Android/Cyborg** - possible upgrade so they can consume food/beverages, e.g. like a small bio-reactor internally. this idea may or may not be made for the Drone origin instead, though. i'm not sure exactly yet.
