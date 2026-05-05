@@ -2,7 +2,7 @@
 This is an Origins addon that's (supposed to) add bot-oriented origins. So far, only Android/Cyborg, Automaton, and Drone are usable, while Cybernetics is unused (and planned to be upgradeable later on.)
 
 ## Origins themselves
-**Android/Cyborg** - similar to the Human origin, since they aren't extremely different from humans. androids/cyborgs may or may not have the ability to eat/drink human food/beverages (though I may or may not plan an upgrade in the future that allows this later). overall doesn't change the game a lot.
+**Android/Cyborg** - similar to the Human origin, since they aren't extremely different from humans. overall doesn't change the game a lot.
 
 **Automaton** - once popular, but now 'obsoleted' by drones. often used for concepts or in fiction, though you cannot eat food nor drink human beverages. you rely almost solely on steam, and you may require oiling over time.
 
