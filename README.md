@@ -11,7 +11,7 @@ This is an Origins addon that's (supposed to) add bot-oriented origins. So far, 
 **Cybernetics** - these are basically just cybernetic upgrades to the human origin. you can take various upgrades, though at a cost - whether it be draining your hunger faster, sinking while swimming, or something else. these require iron, redstone, and potentially other things to upgrade, though you become more adept, you will slowly lose your connection to humanity.
 
 ## Plans
-**Androis/Cyborg** - possible upgrade so they can consume food/beverages, e.g. like a small bio-reactor internally. this idea may or may not be made for the Drone origin instead, though. i'm not sure exactly yet.
+**Android/Cyborg** - possible upgrade so they can consume food/beverages, e.g. like a small bio-reactor internally. this idea may or may not be made for the Drone origin instead, though. i'm not sure exactly yet.
 
 **Automaton** - inspired by the Automaton origin in Origins++, though they don't require coal or any other furnace fuel to keep going. however, possibly planning on making them slow down over time, since they rust or need oiling, which could likely be done with Resin or a Honey Bottle, or maybe something else. i'm not sure yet.
 
